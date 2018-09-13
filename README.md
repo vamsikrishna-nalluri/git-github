@@ -34,4 +34,14 @@ First you should switch to the destimation branch.
 ========================================
 
 rebase
-git rebase <<branchname>> - 
+git rebase <<branchname>> - For linear commits
+
+=============================
+SSH keys 
+
+ssh-keygen              - To generate keys on your local machine.
+ssh -T git@github.com   - Verify the key is correct
+
+
+
+
